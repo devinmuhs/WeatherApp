@@ -18,20 +18,20 @@ namespace WeatherApp
                 Console.WriteLine("Welcome To The RDU Weather App!\nThis Application uses 30 years worth of data to predict the weather at the RDU Airport.");
 
                 // Request user input for month and assigns the input to a variable.
-                Console.Write("Please enter the month you would like to check the weather for:\n(Leave blank for todays' date)\n(Example format: January, February, etc.): ");
+                Console.Write("Please enter the month you would like to check the weather for:\n(Leave blank for todays' date)\n(Sample Format: January, February, etc.): ");
                 string month = Console.ReadLine();
 
-                // If input is blank, variable is assinged to current month using DateTime. 
+                // If input is blank, variable is assigned to current month using DateTime. 
                 if (month == "")
                 {
                     month = DateTime.Now.ToString("MMMM");
                 }
 
                 // Request user input for day and assigns the input to a variable..
-                Console.Write("Please enter the day of the month you would like to check the weather for:\n(Leave blank for todays' date)\n(Example format: 1, 2, etc.): ");
+                Console.Write("Please enter the day of the month you would like to check the weather for:\n(Leave blank for todays' date)\n(Sample Format: 1, 2, etc.): ");
                 string day = Console.ReadLine();
 
-                //If input is blank, variable is assinged to current day using DateTime.
+                //If input is blank, variable is assigned to current day using DateTime.
                 if (day == "")
                 {
                     day = DateTime.Now.ToString("dd");
@@ -43,7 +43,7 @@ namespace WeatherApp
                     // If match is found for both Month and Day, print result statement to the user.
                     if (record.month == month && record.dayOfMonth == day)
                     {
-                        Console.WriteLine($"On average, the high for {month} {day} is {record.normalMaxTemp} degrees, the low is {record.normalMinTemp} degrees and there is {record.normalPrecipitation} inches of rain.");
+                        Console.WriteLine($"On average, the high for {month} {day} is {record.normalMaxTemp}°F, the low is {record.normalMinTemp}°F and there is {record.normalPrecipitation} inches of rain.");
                     }
                     //else
                     //{
