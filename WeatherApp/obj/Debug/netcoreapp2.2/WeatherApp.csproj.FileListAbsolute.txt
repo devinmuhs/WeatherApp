@@ -10,3 +10,15 @@
 /Users/devinmuhs/Projects/WeatherApp/WeatherApp/obj/Debug/netcoreapp2.2/WeatherApp.dll
 /Users/devinmuhs/Projects/WeatherApp/WeatherApp/obj/Debug/netcoreapp2.2/WeatherApp.pdb
 /Users/devinmuhs/Projects/WeatherApp/WeatherApp/bin/Debug/netcoreapp2.2/weather-data.json
+/Users/devinmuhs/WeatherApp/WeatherApp/bin/Debug/netcoreapp2.2/weather-data.json
+/Users/devinmuhs/WeatherApp/WeatherApp/bin/Debug/netcoreapp2.2/WeatherApp.deps.json
+/Users/devinmuhs/WeatherApp/WeatherApp/bin/Debug/netcoreapp2.2/WeatherApp.runtimeconfig.json
+/Users/devinmuhs/WeatherApp/WeatherApp/bin/Debug/netcoreapp2.2/WeatherApp.runtimeconfig.dev.json
+/Users/devinmuhs/WeatherApp/WeatherApp/bin/Debug/netcoreapp2.2/WeatherApp.dll
+/Users/devinmuhs/WeatherApp/WeatherApp/bin/Debug/netcoreapp2.2/WeatherApp.pdb
+/Users/devinmuhs/WeatherApp/WeatherApp/obj/Debug/netcoreapp2.2/WeatherApp.csprojAssemblyReference.cache
+/Users/devinmuhs/WeatherApp/WeatherApp/obj/Debug/netcoreapp2.2/WeatherApp.csproj.CoreCompileInputs.cache
+/Users/devinmuhs/WeatherApp/WeatherApp/obj/Debug/netcoreapp2.2/WeatherApp.AssemblyInfoInputs.cache
+/Users/devinmuhs/WeatherApp/WeatherApp/obj/Debug/netcoreapp2.2/WeatherApp.AssemblyInfo.cs
+/Users/devinmuhs/WeatherApp/WeatherApp/obj/Debug/netcoreapp2.2/WeatherApp.dll
+/Users/devinmuhs/WeatherApp/WeatherApp/obj/Debug/netcoreapp2.2/WeatherApp.pdb

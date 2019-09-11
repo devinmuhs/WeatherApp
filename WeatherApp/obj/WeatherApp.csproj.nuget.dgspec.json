@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/devinmuhs/Projects/WeatherApp/WeatherApp/WeatherApp.csproj": {}
+    "/Users/devinmuhs/WeatherApp/WeatherApp/WeatherApp.csproj": {}
   },
   "projects": {
-    "/Users/devinmuhs/Projects/WeatherApp/WeatherApp/WeatherApp.csproj": {
+    "/Users/devinmuhs/WeatherApp/WeatherApp/WeatherApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/devinmuhs/Projects/WeatherApp/WeatherApp/WeatherApp.csproj",
+        "projectUniqueName": "/Users/devinmuhs/WeatherApp/WeatherApp/WeatherApp.csproj",
         "projectName": "WeatherApp",
-        "projectPath": "/Users/devinmuhs/Projects/WeatherApp/WeatherApp/WeatherApp.csproj",
+        "projectPath": "/Users/devinmuhs/WeatherApp/WeatherApp/WeatherApp.csproj",
         "packagesPath": "/Users/devinmuhs/.nuget/packages/",
-        "outputPath": "/Users/devinmuhs/Projects/WeatherApp/WeatherApp/obj/",
+        "outputPath": "/Users/devinmuhs/WeatherApp/WeatherApp/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
