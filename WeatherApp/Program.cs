@@ -15,10 +15,10 @@ namespace WeatherApp
                 string json = r.ReadToEnd();
                 // Json is deserialized into an object so that the data can be easily parsed.
                 var weather = JsonConvert.DeserializeObject<dynamic>(json);
-                Console.WriteLine("Welcome To The RDU Weather App!\nThis Application uses 30 years worth of data to predict the weather at the RDU Airport.");
+                Console.WriteLine("Welcome To The RDU Weather App!\n\nThis Application uses 30 years worth of data to predict the weather at the Raleigh-Durham International Airport.\n");
 
                 // Request user input for month and assigns the input to a variable.
-                Console.Write("Please enter the month you would like to check the weather for:\n(Leave blank for todays' date)\n(Sample Format: January, February, etc.): ");
+                Console.Write("First, please enter the month you would like to check the weather for:\n(Leave blank for this month) - (Format: January, February, etc.): ");
                 string month = Console.ReadLine();
 
                 // If input is blank, variable is assigned to current month using DateTime. 
@@ -28,7 +28,7 @@ namespace WeatherApp
                 }
 
                 // Request user input for day and assigns the input to a variable..
-                Console.Write("Please enter the day of the month you would like to check the weather for:\n(Leave blank for todays' date)\n(Sample Format: 1, 2, etc.): ");
+                Console.Write("\nNow, please enter the day of the month you would like to check the weather for:\n(Leave blank for todays' date) - (Format: 1, 2, etc.): ");
                 string day = Console.ReadLine();
 
                 //If input is blank, variable is assigned to current day using DateTime.
@@ -40,10 +40,11 @@ namespace WeatherApp
                 // Loop through each record to find matching Month and Day.
                 foreach (var record in weather)
                 {
+                    // Convert both record and input to uppercase to avoid casing issue
                     // If match is found for both Month and Day, print result statement to the user.
                     if (record.month.ToString().ToUpper() == month.ToUpper() && record.dayOfMonth.ToString().ToUpper() == day)
                     {
-                        Console.WriteLine($"On average, the high for {record.month} {record.dayOfMonth} is {record.normalMaxTemp}°F, the low is {record.normalMinTemp}°F and there is {record.normalPrecipitation} inches of rain.");
+                        Console.WriteLine($"\nOn average, the high for {record.month} {record.dayOfMonth} is {record.normalMaxTemp}°F, the low is {record.normalMinTemp}°F and there is {record.normalPrecipitation} inches of rain.\n");
                     }
                     //else
                     //{
@@ -55,6 +56,7 @@ namespace WeatherApp
                     //    Console.WriteLine($"There is no record for {month} {day}. Please ensure your request was formated correctly. Example: June 1, January 30, etc.");
                     //}
                 }
+                Console.WriteLine("Thank you for using the RDU Weather App, please re-run the application to check another date!");
             }
 
         }
