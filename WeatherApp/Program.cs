@@ -62,7 +62,7 @@ namespace WeatherApp
 						}
 					}
 				}
-				// If no match is found, output states this and recomments trying different format.
+				// If no match is found, output states this and recommends trying different format.
 				return $"\nThere is no record for {month} {day}. Please ensure your request was formated correctly.\n(Month Format: August, January, etc.) - (Day Format: 4, 30, etc.)\n";
 			}
 		}
