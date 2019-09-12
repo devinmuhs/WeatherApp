@@ -18,9 +18,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="weather-data.json">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <Content Include="weatherdata.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>

@@ -4,61 +4,67 @@ using Newtonsoft.Json;
 
 namespace WeatherApp
 {
-    class Program
-    {
+	class Program
+	{
+		public static class WeatherForecast
+		{
+			// Main forecast function is defined with paramters.
+			public static string Forecast(string month, string day)
+			{
+				// Program reads the json file using StreamReader.
+				using (StreamReader r = new StreamReader(@"weatherdata.json"))
+				{
+					string json = r.ReadToEnd();
+					// Json is deserialized into an object so that the data can be easily parsed.
+					var weather = JsonConvert.DeserializeObject<dynamic>(json);
 
-        static void Main(string[] args)
-        {
-            // Program reads the json file using StreamReader.
-            using (StreamReader r = new StreamReader(@"weatherdata.json"))
-            {
-                string json = r.ReadToEnd();
-                // Json is deserialized into an object so that the data can be easily parsed.
-                var weather = JsonConvert.DeserializeObject<dynamic>(json);
-                Console.WriteLine("Welcome To The RDU Weather App!\n\nThis Application uses 30 years worth of data to predict the weather at the Raleigh-Durham International Airport.\n");
+					// If input is blank, variable is assigned to current month using DateTime.
+					if (month == "")
+					{
+						month = DateTime.Now.ToString("MMMM");
+					}
 
-                // Request user input for month and assigns the input to a variable.
-                Console.Write("First, please enter the month you would like to check the weather for:\n(Leave blank for this month) - (Format: January, February, etc.): ");
-                string month = Console.ReadLine();
+					//If input is blank, variable is assigned to current day using DateTime.
+					if (day == "")
+					{
+						day = DateTime.Now.ToString("dd");
+					}
+					// Loop through each record to find matching Month and Day.
+					foreach (var record in weather)
+					{
+						/* Convert both record and input to uppercase to avoid casing issue.
+                        If match is found for both Month and Day, print result statement to the user. */
+						if (record.Month.ToString().ToUpper() == month.ToUpper() && record.DayOfMonth.ToString() == day)
+						{
+							return $"\nOn average, the high for {record.Month} {record.DayOfMonth} is {record.NormalMaxTemp}°F, the low is {record.NormalMinTemp}°F and there is {record.NormalPrecipitation} inches of rain.\n";
+						}
+					}
+				}
+				// If no match is found, output states this and recomments trying different format.
+				return $"\nThere is no record for {month} {day}. Please ensure your request was formated correctly.\n(Month Format: August, January, etc.) - (Day Format: 4, 30, etc.)\n";
+			}
+		}
+		static void Main(string[] args)
+		{
+			{
+				Console.WriteLine("Welcome To The RDU Weather App!\n\nThis Application uses 30 years worth of data to predict the weather at the Raleigh-Durham International Airport.\n");
 
-                // If input is blank, variable is assigned to current month using DateTime. 
-                if (month == "")
-                {
-                    month = DateTime.Now.ToString("MMMM");
-                }
+				// Request user input for month and assigns the input to a variable.
+				Console.Write("First, please enter the month you would like to check the weather for:\n(Leave blank for this month) - (Format: January, February, etc.): ");
+				string month = Console.ReadLine();
 
-                // Request user input for day and assigns the input to a variable..
-                Console.Write("\nNow, please enter the day of the month you would like to check the weather for:\n(Leave blank for todays' date) - (Format: 1, 2, etc.): ");
-                string day = Console.ReadLine();
+				// Request user input for day and assigns the input to a variable.
+				Console.Write("\nNow, please enter the day of the month you would like to check the weather for:\n(Leave blank for todays' date) - (Format: 1, 2, etc.): ");
+				string day = Console.ReadLine();
 
-                //If input is blank, variable is assigned to current day using DateTime.
-                if (day == "")
-                {
-                    day = DateTime.Now.ToString("dd");
-                }
+				// Calls the WeatherForecast function and assigns it's value to output variable.
+				string output = WeatherForecast.Forecast(month, day);
 
-                // Loop through each record to find matching Month and Day.
-                foreach (var record in weather)
-                {
-                    // Convert both record and input to uppercase to avoid casing issue
-                    // If match is found for both Month and Day, print result statement to the user.
-                    if (record.Month.ToString().ToUpper() == month.ToUpper() && record.DayOfMonth.ToString().ToUpper() == day)
-                    {
-                        Console.WriteLine($"\nOn average, the high for {record.Month} {record.DayOfMonth} is {record.NormalMaxTemp}°F, the low is {record.NormalMinTemp}°F and there is {record.NormalPrecipitation} inches of rain.\n");
-                    }
-                    //else
-                    //{
-                    //    Console.WriteLine($"There is no record for {month} {day}. Please ensure your request was formated correctly. Example: June 1, January 30, etc.");
-                    //}
-
-                    //if (record.month.Contains(month) == false && record.dayOfMonth.Contains(day) == false)
-                    //{
-                    //    Console.WriteLine($"There is no record for {month} {day}. Please ensure your request was formated correctly. Example: June 1, January 30, etc.");
-                    //}
-                }
-                Console.WriteLine("Thank you for using the RDU Weather App, please re-run the application to check another date!");
-            }
-
-        }
-    }
+				// Prints the output to the console.
+				Console.WriteLine(output);
+				Console.WriteLine("Thank you for using the RDU Weather App! Please re-run the application to check another date!");
+			}
+		}
+	}
 }
+
