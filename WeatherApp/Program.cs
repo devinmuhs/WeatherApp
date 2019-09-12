@@ -41,9 +41,9 @@ namespace WeatherApp
                 foreach (var record in weather)
                 {
                     // If match is found for both Month and Day, print result statement to the user.
-                    if (record.month == month && record.dayOfMonth == day)
+                    if (record.month.ToString().ToUpper() == month.ToUpper() && record.dayOfMonth.ToString().ToUpper() == day)
                     {
-                        Console.WriteLine($"On average, the high for {month} {day} is {record.normalMaxTemp}°F, the low is {record.normalMinTemp}°F and there is {record.normalPrecipitation} inches of rain.");
+                        Console.WriteLine($"On average, the high for {record.month} {record.dayOfMonth} is {record.normalMaxTemp}°F, the low is {record.normalMinTemp}°F and there is {record.normalPrecipitation} inches of rain.");
                     }
                     //else
                     //{
