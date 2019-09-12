@@ -1,16 +1,18 @@
 ﻿<Properties StartupConfiguration="{DBC0B6EA-2D05-457C-BC2D-954206A23DE6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherApp/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherTest/UnitTest1.cs">
     <Files>
-      <File FileName="WeatherApp/Program.cs" Line="46" Column="109" />
-      <File FileName="WeatherApp/WeatherData.cs" Line="1" Column="1" />
-      <File FileName="WeatherApp/weather-data.json" Line="1" Column="1" />
+      <File FileName="WeatherApp/Program.cs" Line="68" Column="3" />
+      <File FileName="WeatherApp/WeatherData.cs" Line="17" Column="1" />
+      <File FileName="WeatherApp/weatherdata.json" Line="1" Column="1" />
+      <File FileName="WeatherTest/UnitTest1.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WeatherApp" expanded="True">
-            <Node name="WeatherApp" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="WeatherApp" expanded="True" />
+            <Node name="WeatherTest" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
             </Node>
           </Node>
         </State>
