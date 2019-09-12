@@ -6,11 +6,11 @@ namespace WeatherApp
 {
     class WeatherData
     {
-        public string month { get; set; }
-        public string dayOfMonth { get; set; }
-        public string julianDay { get; set; }
-        public string normalMaxTemp { get; set; }
-        public string normalMinTemp { get; set; }
-        public string normalPrecipitation { get; set; }
+        public string Month { get; set; }
+        public string DayOfMonth { get; set; }
+        public string JulianDay { get; set; }
+        public string NormalMaxTemp { get; set; }
+        public string NormalMinTemp { get; set; }
+        public string NormalPrecipitation { get; set; }
     }
 }

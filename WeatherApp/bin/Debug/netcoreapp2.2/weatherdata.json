@@ -1,0 +1,2933 @@
+﻿[
+	{
+		"Month": "January",
+		"DayOfMonth": "1",
+		"JulianDay": "1",
+		"NormalMaxTemp": "50.6",
+		"NormalMinTemp": "30.9",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "2",
+		"JulianDay": "2",
+		"NormalMaxTemp": "50.5",
+		"NormalMinTemp": "30.8",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "3",
+		"JulianDay": "3",
+		"NormalMaxTemp": "50.4",
+		"NormalMinTemp": "30.8",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "4",
+		"JulianDay": "4",
+		"NormalMaxTemp": "50.4",
+		"NormalMinTemp": "30.7",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "5",
+		"JulianDay": "5",
+		"NormalMaxTemp": "50.4",
+		"NormalMinTemp": "30.7",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "6",
+		"JulianDay": "6",
+		"NormalMaxTemp": "50.3",
+		"NormalMinTemp": "30.7",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "7",
+		"JulianDay": "7",
+		"NormalMaxTemp": "50.3",
+		"NormalMinTemp": "30.6",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "8",
+		"JulianDay": "8",
+		"NormalMaxTemp": "50.3",
+		"NormalMinTemp": "30.6",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "9",
+		"JulianDay": "9",
+		"NormalMaxTemp": "50.3",
+		"NormalMinTemp": "30.6",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "10",
+		"JulianDay": "10",
+		"NormalMaxTemp": "50.3",
+		"NormalMinTemp": "30.6",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "11",
+		"JulianDay": "11",
+		"NormalMaxTemp": "50.4",
+		"NormalMinTemp": "30.6",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "12",
+		"JulianDay": "12",
+		"NormalMaxTemp": "50.4",
+		"NormalMinTemp": "30.7",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "13",
+		"JulianDay": "13",
+		"NormalMaxTemp": "50.4",
+		"NormalMinTemp": "30.7",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "14",
+		"JulianDay": "14",
+		"NormalMaxTemp": "50.5",
+		"NormalMinTemp": "30.7",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "15",
+		"JulianDay": "15",
+		"NormalMaxTemp": "50.5",
+		"NormalMinTemp": "30.7",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "16",
+		"JulianDay": "16",
+		"NormalMaxTemp": "50.6",
+		"NormalMinTemp": "30.8",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "17",
+		"JulianDay": "17",
+		"NormalMaxTemp": "50.7",
+		"NormalMinTemp": "30.8",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "18",
+		"JulianDay": "18",
+		"NormalMaxTemp": "50.8",
+		"NormalMinTemp": "30.9",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "19",
+		"JulianDay": "19",
+		"NormalMaxTemp": "50.8",
+		"NormalMinTemp": "30.9",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "20",
+		"JulianDay": "20",
+		"NormalMaxTemp": "50.9",
+		"NormalMinTemp": "31",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "21",
+		"JulianDay": "21",
+		"NormalMaxTemp": "51",
+		"NormalMinTemp": "31.1",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "22",
+		"JulianDay": "22",
+		"NormalMaxTemp": "51.1",
+		"NormalMinTemp": "31.1",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "23",
+		"JulianDay": "23",
+		"NormalMaxTemp": "51.2",
+		"NormalMinTemp": "31.2",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "24",
+		"JulianDay": "24",
+		"NormalMaxTemp": "51.4",
+		"NormalMinTemp": "31.3",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "25",
+		"JulianDay": "25",
+		"NormalMaxTemp": "51.5",
+		"NormalMinTemp": "31.4",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "26",
+		"JulianDay": "26",
+		"NormalMaxTemp": "51.6",
+		"NormalMinTemp": "31.4",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "27",
+		"JulianDay": "27",
+		"NormalMaxTemp": "51.7",
+		"NormalMinTemp": "31.5",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "28",
+		"JulianDay": "28",
+		"NormalMaxTemp": "51.9",
+		"NormalMinTemp": "31.6",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "29",
+		"JulianDay": "29",
+		"NormalMaxTemp": "52",
+		"NormalMinTemp": "31.7",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "30",
+		"JulianDay": "30",
+		"NormalMaxTemp": "52.2",
+		"NormalMinTemp": "31.8",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "January",
+		"DayOfMonth": "31",
+		"JulianDay": "31",
+		"NormalMaxTemp": "52.3",
+		"NormalMinTemp": "31.9",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "1",
+		"JulianDay": "32",
+		"NormalMaxTemp": "52.5",
+		"NormalMinTemp": "32",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "2",
+		"JulianDay": "33",
+		"NormalMaxTemp": "52.6",
+		"NormalMinTemp": "32.1",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "3",
+		"JulianDay": "34",
+		"NormalMaxTemp": "52.8",
+		"NormalMinTemp": "32.200000000000003",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "4",
+		"JulianDay": "35",
+		"NormalMaxTemp": "53",
+		"NormalMinTemp": "32.299999999999997",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "5",
+		"JulianDay": "36",
+		"NormalMaxTemp": "53.1",
+		"NormalMinTemp": "32.4",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "6",
+		"JulianDay": "37",
+		"NormalMaxTemp": "53.3",
+		"NormalMinTemp": "32.6",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "7",
+		"JulianDay": "38",
+		"NormalMaxTemp": "53.5",
+		"NormalMinTemp": "32.700000000000003",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "8",
+		"JulianDay": "39",
+		"NormalMaxTemp": "53.7",
+		"NormalMinTemp": "32.799999999999997",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "9",
+		"JulianDay": "40",
+		"NormalMaxTemp": "53.9",
+		"NormalMinTemp": "32.9",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "10",
+		"JulianDay": "41",
+		"NormalMaxTemp": "54.1",
+		"NormalMinTemp": "33.1",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "11",
+		"JulianDay": "42",
+		"NormalMaxTemp": "54.3",
+		"NormalMinTemp": "33.200000000000003",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "12",
+		"JulianDay": "43",
+		"NormalMaxTemp": "54.5",
+		"NormalMinTemp": "33.299999999999997",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "13",
+		"JulianDay": "44",
+		"NormalMaxTemp": "54.7",
+		"NormalMinTemp": "33.5",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "14",
+		"JulianDay": "45",
+		"NormalMaxTemp": "54.9",
+		"NormalMinTemp": "33.6",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "15",
+		"JulianDay": "46",
+		"NormalMaxTemp": "55.2",
+		"NormalMinTemp": "33.799999999999997",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "16",
+		"JulianDay": "47",
+		"NormalMaxTemp": "55.4",
+		"NormalMinTemp": "33.9",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "17",
+		"JulianDay": "48",
+		"NormalMaxTemp": "55.6",
+		"NormalMinTemp": "34.1",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "18",
+		"JulianDay": "49",
+		"NormalMaxTemp": "55.9",
+		"NormalMinTemp": "34.200000000000003",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "19",
+		"JulianDay": "50",
+		"NormalMaxTemp": "56.1",
+		"NormalMinTemp": "34.4",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "20",
+		"JulianDay": "51",
+		"NormalMaxTemp": "56.3",
+		"NormalMinTemp": "34.5",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "21",
+		"JulianDay": "52",
+		"NormalMaxTemp": "56.6",
+		"NormalMinTemp": "34.700000000000003",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "22",
+		"JulianDay": "53",
+		"NormalMaxTemp": "56.9",
+		"NormalMinTemp": "34.9",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "23",
+		"JulianDay": "54",
+		"NormalMaxTemp": "57.1",
+		"NormalMinTemp": "35.1",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "24",
+		"JulianDay": "55",
+		"NormalMaxTemp": "57.4",
+		"NormalMinTemp": "35.200000000000003",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "25",
+		"JulianDay": "56",
+		"NormalMaxTemp": "57.6",
+		"NormalMinTemp": "35.4",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "26",
+		"JulianDay": "57",
+		"NormalMaxTemp": "57.9",
+		"NormalMinTemp": "35.6",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "27",
+		"JulianDay": "58",
+		"NormalMaxTemp": "58.2",
+		"NormalMinTemp": "35.799999999999997",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "28",
+		"JulianDay": "59",
+		"NormalMaxTemp": "58.5",
+		"NormalMinTemp": "36",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "February",
+		"DayOfMonth": "29",
+		"JulianDay": "60",
+		"NormalMaxTemp": "58.6",
+		"NormalMinTemp": "36.1",
+		"NormalPrecipitation": "N/A"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "1",
+		"JulianDay": "61",
+		"NormalMaxTemp": "58.8",
+		"NormalMinTemp": "36.200000000000003",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "2",
+		"JulianDay": "62",
+		"NormalMaxTemp": "59.1",
+		"NormalMinTemp": "36.4",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "3",
+		"JulianDay": "63",
+		"NormalMaxTemp": "59.3",
+		"NormalMinTemp": "36.700000000000003",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "4",
+		"JulianDay": "64",
+		"NormalMaxTemp": "59.6",
+		"NormalMinTemp": "36.9",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "5",
+		"JulianDay": "65",
+		"NormalMaxTemp": "59.9",
+		"NormalMinTemp": "37.1",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "6",
+		"JulianDay": "66",
+		"NormalMaxTemp": "60.2",
+		"NormalMinTemp": "37.299999999999997",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "7",
+		"JulianDay": "67",
+		"NormalMaxTemp": "60.5",
+		"NormalMinTemp": "37.6",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "8",
+		"JulianDay": "68",
+		"NormalMaxTemp": "60.8",
+		"NormalMinTemp": "37.799999999999997",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "9",
+		"JulianDay": "69",
+		"NormalMaxTemp": "61.2",
+		"NormalMinTemp": "38",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "10",
+		"JulianDay": "70",
+		"NormalMaxTemp": "61.5",
+		"NormalMinTemp": "38.299999999999997",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "11",
+		"JulianDay": "71",
+		"NormalMaxTemp": "61.8",
+		"NormalMinTemp": "38.5",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "12",
+		"JulianDay": "72",
+		"NormalMaxTemp": "62.1",
+		"NormalMinTemp": "38.799999999999997",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "13",
+		"JulianDay": "73",
+		"NormalMaxTemp": "62.4",
+		"NormalMinTemp": "39",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "14",
+		"JulianDay": "74",
+		"NormalMaxTemp": "62.7",
+		"NormalMinTemp": "39.299999999999997",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "15",
+		"JulianDay": "75",
+		"NormalMaxTemp": "63",
+		"NormalMinTemp": "39.5",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "16",
+		"JulianDay": "76",
+		"NormalMaxTemp": "63.4",
+		"NormalMinTemp": "39.799999999999997",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "17",
+		"JulianDay": "77",
+		"NormalMaxTemp": "63.7",
+		"NormalMinTemp": "40.1",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "18",
+		"JulianDay": "78",
+		"NormalMaxTemp": "64",
+		"NormalMinTemp": "40.299999999999997",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "19",
+		"JulianDay": "79",
+		"NormalMaxTemp": "64.3",
+		"NormalMinTemp": "40.6",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "20",
+		"JulianDay": "80",
+		"NormalMaxTemp": "64.7",
+		"NormalMinTemp": "40.9",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "21",
+		"JulianDay": "81",
+		"NormalMaxTemp": "65",
+		"NormalMinTemp": "41.1",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "22",
+		"JulianDay": "82",
+		"NormalMaxTemp": "65.3",
+		"NormalMinTemp": "41.4",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "23",
+		"JulianDay": "83",
+		"NormalMaxTemp": "65.599999999999994",
+		"NormalMinTemp": "41.7",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "24",
+		"JulianDay": "84",
+		"NormalMaxTemp": "65.900000000000006",
+		"NormalMinTemp": "42",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "25",
+		"JulianDay": "85",
+		"NormalMaxTemp": "66.3",
+		"NormalMinTemp": "42.2",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "26",
+		"JulianDay": "86",
+		"NormalMaxTemp": "66.599999999999994",
+		"NormalMinTemp": "42.5",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "27",
+		"JulianDay": "87",
+		"NormalMaxTemp": "66.900000000000006",
+		"NormalMinTemp": "42.8",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "28",
+		"JulianDay": "88",
+		"NormalMaxTemp": "67.2",
+		"NormalMinTemp": "43.1",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "29",
+		"JulianDay": "89",
+		"NormalMaxTemp": "67.5",
+		"NormalMinTemp": "43.3",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "30",
+		"JulianDay": "90",
+		"NormalMaxTemp": "67.8",
+		"NormalMinTemp": "43.6",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "March",
+		"DayOfMonth": "31",
+		"JulianDay": "91",
+		"NormalMaxTemp": "68.099999999999994",
+		"NormalMinTemp": "43.9",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "1",
+		"JulianDay": "92",
+		"NormalMaxTemp": "68.400000000000006",
+		"NormalMinTemp": "44.2",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "2",
+		"JulianDay": "93",
+		"NormalMaxTemp": "68.8",
+		"NormalMinTemp": "44.4",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "3",
+		"JulianDay": "94",
+		"NormalMaxTemp": "69.099999999999994",
+		"NormalMinTemp": "44.7",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "4",
+		"JulianDay": "95",
+		"NormalMaxTemp": "69.400000000000006",
+		"NormalMinTemp": "45",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "5",
+		"JulianDay": "96",
+		"NormalMaxTemp": "69.599999999999994",
+		"NormalMinTemp": "45.2",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "6",
+		"JulianDay": "97",
+		"NormalMaxTemp": "69.900000000000006",
+		"NormalMinTemp": "45.5",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "7",
+		"JulianDay": "98",
+		"NormalMaxTemp": "70.2",
+		"NormalMinTemp": "45.8",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "8",
+		"JulianDay": "99",
+		"NormalMaxTemp": "70.5",
+		"NormalMinTemp": "46",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "9",
+		"JulianDay": "100",
+		"NormalMaxTemp": "70.8",
+		"NormalMinTemp": "46.3",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "10",
+		"JulianDay": "101",
+		"NormalMaxTemp": "71.099999999999994",
+		"NormalMinTemp": "46.6",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "11",
+		"JulianDay": "102",
+		"NormalMaxTemp": "71.3",
+		"NormalMinTemp": "46.8",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "12",
+		"JulianDay": "103",
+		"NormalMaxTemp": "71.599999999999994",
+		"NormalMinTemp": "47.1",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "13",
+		"JulianDay": "104",
+		"NormalMaxTemp": "71.900000000000006",
+		"NormalMinTemp": "47.4",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "14",
+		"JulianDay": "105",
+		"NormalMaxTemp": "72.099999999999994",
+		"NormalMinTemp": "47.6",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "15",
+		"JulianDay": "106",
+		"NormalMaxTemp": "72.400000000000006",
+		"NormalMinTemp": "47.9",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "16",
+		"JulianDay": "107",
+		"NormalMaxTemp": "72.7",
+		"NormalMinTemp": "48.1",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "17",
+		"JulianDay": "108",
+		"NormalMaxTemp": "72.900000000000006",
+		"NormalMinTemp": "48.4",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "18",
+		"JulianDay": "109",
+		"NormalMaxTemp": "73.2",
+		"NormalMinTemp": "48.7",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "19",
+		"JulianDay": "110",
+		"NormalMaxTemp": "73.400000000000006",
+		"NormalMinTemp": "48.9",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "20",
+		"JulianDay": "111",
+		"NormalMaxTemp": "73.599999999999994",
+		"NormalMinTemp": "49.2",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "21",
+		"JulianDay": "112",
+		"NormalMaxTemp": "73.900000000000006",
+		"NormalMinTemp": "49.4",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "22",
+		"JulianDay": "113",
+		"NormalMaxTemp": "74.099999999999994",
+		"NormalMinTemp": "49.7",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "23",
+		"JulianDay": "114",
+		"NormalMaxTemp": "74.3",
+		"NormalMinTemp": "50",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "24",
+		"JulianDay": "115",
+		"NormalMaxTemp": "74.599999999999994",
+		"NormalMinTemp": "50.2",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "25",
+		"JulianDay": "116",
+		"NormalMaxTemp": "74.8",
+		"NormalMinTemp": "50.5",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "26",
+		"JulianDay": "117",
+		"NormalMaxTemp": "75",
+		"NormalMinTemp": "50.7",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "27",
+		"JulianDay": "118",
+		"NormalMaxTemp": "75.3",
+		"NormalMinTemp": "51",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "28",
+		"JulianDay": "119",
+		"NormalMaxTemp": "75.5",
+		"NormalMinTemp": "51.3",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "29",
+		"JulianDay": "120",
+		"NormalMaxTemp": "75.7",
+		"NormalMinTemp": "51.5",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "April",
+		"DayOfMonth": "30",
+		"JulianDay": "121",
+		"NormalMaxTemp": "75.900000000000006",
+		"NormalMinTemp": "51.8",
+		"NormalPrecipitation": "0.08"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "1",
+		"JulianDay": "122",
+		"NormalMaxTemp": "76.099999999999994",
+		"NormalMinTemp": "52.1",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "2",
+		"JulianDay": "123",
+		"NormalMaxTemp": "76.400000000000006",
+		"NormalMinTemp": "52.3",
+		"NormalPrecipitation": "0.08"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "3",
+		"JulianDay": "124",
+		"NormalMaxTemp": "76.599999999999994",
+		"NormalMinTemp": "52.6",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "4",
+		"JulianDay": "125",
+		"NormalMaxTemp": "76.8",
+		"NormalMinTemp": "52.9",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "5",
+		"JulianDay": "126",
+		"NormalMaxTemp": "77",
+		"NormalMinTemp": "53.2",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "6",
+		"JulianDay": "127",
+		"NormalMaxTemp": "77.2",
+		"NormalMinTemp": "53.4",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "7",
+		"JulianDay": "128",
+		"NormalMaxTemp": "77.5",
+		"NormalMinTemp": "53.7",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "8",
+		"JulianDay": "129",
+		"NormalMaxTemp": "77.7",
+		"NormalMinTemp": "54",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "9",
+		"JulianDay": "130",
+		"NormalMaxTemp": "77.900000000000006",
+		"NormalMinTemp": "54.3",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "10",
+		"JulianDay": "131",
+		"NormalMaxTemp": "78.099999999999994",
+		"NormalMinTemp": "54.6",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "11",
+		"JulianDay": "132",
+		"NormalMaxTemp": "78.400000000000006",
+		"NormalMinTemp": "54.9",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "12",
+		"JulianDay": "133",
+		"NormalMaxTemp": "78.599999999999994",
+		"NormalMinTemp": "55.2",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "13",
+		"JulianDay": "134",
+		"NormalMaxTemp": "78.8",
+		"NormalMinTemp": "55.5",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "14",
+		"JulianDay": "135",
+		"NormalMaxTemp": "79",
+		"NormalMinTemp": "55.8",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "15",
+		"JulianDay": "136",
+		"NormalMaxTemp": "79.3",
+		"NormalMinTemp": "56.1",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "16",
+		"JulianDay": "137",
+		"NormalMaxTemp": "79.5",
+		"NormalMinTemp": "56.4",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "17",
+		"JulianDay": "138",
+		"NormalMaxTemp": "79.7",
+		"NormalMinTemp": "56.7",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "18",
+		"JulianDay": "139",
+		"NormalMaxTemp": "80",
+		"NormalMinTemp": "57",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "19",
+		"JulianDay": "140",
+		"NormalMaxTemp": "80.2",
+		"NormalMinTemp": "57.3",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "20",
+		"JulianDay": "141",
+		"NormalMaxTemp": "80.5",
+		"NormalMinTemp": "57.7",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "21",
+		"JulianDay": "142",
+		"NormalMaxTemp": "80.7",
+		"NormalMinTemp": "58",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "22",
+		"JulianDay": "143",
+		"NormalMaxTemp": "81",
+		"NormalMinTemp": "58.3",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "23",
+		"JulianDay": "144",
+		"NormalMaxTemp": "81.2",
+		"NormalMinTemp": "58.6",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "24",
+		"JulianDay": "145",
+		"NormalMaxTemp": "81.5",
+		"NormalMinTemp": "59",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "25",
+		"JulianDay": "146",
+		"NormalMaxTemp": "81.8",
+		"NormalMinTemp": "59.3",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "26",
+		"JulianDay": "147",
+		"NormalMaxTemp": "82",
+		"NormalMinTemp": "59.6",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "27",
+		"JulianDay": "148",
+		"NormalMaxTemp": "82.3",
+		"NormalMinTemp": "60",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "28",
+		"JulianDay": "149",
+		"NormalMaxTemp": "82.5",
+		"NormalMinTemp": "60.3",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "29",
+		"JulianDay": "150",
+		"NormalMaxTemp": "82.8",
+		"NormalMinTemp": "60.6",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "30",
+		"JulianDay": "151",
+		"NormalMaxTemp": "83.1",
+		"NormalMinTemp": "61",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "May",
+		"DayOfMonth": "31",
+		"JulianDay": "152",
+		"NormalMaxTemp": "83.3",
+		"NormalMinTemp": "61.3",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "1",
+		"JulianDay": "153",
+		"NormalMaxTemp": "83.6",
+		"NormalMinTemp": "61.6",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "2",
+		"JulianDay": "154",
+		"NormalMaxTemp": "83.9",
+		"NormalMinTemp": "62",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "3",
+		"JulianDay": "155",
+		"NormalMaxTemp": "84.2",
+		"NormalMinTemp": "62.3",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "4",
+		"JulianDay": "156",
+		"NormalMaxTemp": "84.4",
+		"NormalMinTemp": "62.6",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "5",
+		"JulianDay": "157",
+		"NormalMaxTemp": "84.7",
+		"NormalMinTemp": "62.9",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "6",
+		"JulianDay": "158",
+		"NormalMaxTemp": "85",
+		"NormalMinTemp": "63.3",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "7",
+		"JulianDay": "159",
+		"NormalMaxTemp": "85.2",
+		"NormalMinTemp": "63.6",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "8",
+		"JulianDay": "160",
+		"NormalMaxTemp": "85.5",
+		"NormalMinTemp": "63.9",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "9",
+		"JulianDay": "161",
+		"NormalMaxTemp": "85.7",
+		"NormalMinTemp": "64.2",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "10",
+		"JulianDay": "162",
+		"NormalMaxTemp": "86",
+		"NormalMinTemp": "64.5",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "11",
+		"JulianDay": "163",
+		"NormalMaxTemp": "86.3",
+		"NormalMinTemp": "64.8",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "12",
+		"JulianDay": "164",
+		"NormalMaxTemp": "86.5",
+		"NormalMinTemp": "65.099999999999994",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "13",
+		"JulianDay": "165",
+		"NormalMaxTemp": "86.7",
+		"NormalMinTemp": "65.400000000000006",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "14",
+		"JulianDay": "166",
+		"NormalMaxTemp": "87",
+		"NormalMinTemp": "65.7",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "15",
+		"JulianDay": "167",
+		"NormalMaxTemp": "87.2",
+		"NormalMinTemp": "65.900000000000006",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "16",
+		"JulianDay": "168",
+		"NormalMaxTemp": "87.4",
+		"NormalMinTemp": "66.2",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "17",
+		"JulianDay": "169",
+		"NormalMaxTemp": "87.7",
+		"NormalMinTemp": "66.5",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "18",
+		"JulianDay": "170",
+		"NormalMaxTemp": "87.9",
+		"NormalMinTemp": "66.7",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "19",
+		"JulianDay": "171",
+		"NormalMaxTemp": "88.1",
+		"NormalMinTemp": "67",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "20",
+		"JulianDay": "172",
+		"NormalMaxTemp": "88.3",
+		"NormalMinTemp": "67.2",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "21",
+		"JulianDay": "173",
+		"NormalMaxTemp": "88.5",
+		"NormalMinTemp": "67.400000000000006",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "22",
+		"JulianDay": "174",
+		"NormalMaxTemp": "88.6",
+		"NormalMinTemp": "67.599999999999994",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "23",
+		"JulianDay": "175",
+		"NormalMaxTemp": "88.8",
+		"NormalMinTemp": "67.8",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "24",
+		"JulianDay": "176",
+		"NormalMaxTemp": "89",
+		"NormalMinTemp": "68",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "25",
+		"JulianDay": "177",
+		"NormalMaxTemp": "89.1",
+		"NormalMinTemp": "68.2",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "26",
+		"JulianDay": "178",
+		"NormalMaxTemp": "89.3",
+		"NormalMinTemp": "68.400000000000006",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "27",
+		"JulianDay": "179",
+		"NormalMaxTemp": "89.4",
+		"NormalMinTemp": "68.599999999999994",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "28",
+		"JulianDay": "180",
+		"NormalMaxTemp": "89.6",
+		"NormalMinTemp": "68.7",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "29",
+		"JulianDay": "181",
+		"NormalMaxTemp": "89.7",
+		"NormalMinTemp": "68.900000000000006",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "June",
+		"DayOfMonth": "30",
+		"JulianDay": "182",
+		"NormalMaxTemp": "89.8",
+		"NormalMinTemp": "69",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "1",
+		"JulianDay": "183",
+		"NormalMaxTemp": "89.9",
+		"NormalMinTemp": "69.2",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "2",
+		"JulianDay": "184",
+		"NormalMaxTemp": "90",
+		"NormalMinTemp": "69.3",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "3",
+		"JulianDay": "185",
+		"NormalMaxTemp": "90.1",
+		"NormalMinTemp": "69.400000000000006",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "4",
+		"JulianDay": "186",
+		"NormalMaxTemp": "90.1",
+		"NormalMinTemp": "69.5",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "5",
+		"JulianDay": "187",
+		"NormalMaxTemp": "90.2",
+		"NormalMinTemp": "69.599999999999994",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "6",
+		"JulianDay": "188",
+		"NormalMaxTemp": "90.3",
+		"NormalMinTemp": "69.7",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "7",
+		"JulianDay": "189",
+		"NormalMaxTemp": "90.3",
+		"NormalMinTemp": "69.8",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "8",
+		"JulianDay": "190",
+		"NormalMaxTemp": "90.3",
+		"NormalMinTemp": "69.8",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "9",
+		"JulianDay": "191",
+		"NormalMaxTemp": "90.4",
+		"NormalMinTemp": "69.900000000000006",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "10",
+		"JulianDay": "192",
+		"NormalMaxTemp": "90.4",
+		"NormalMinTemp": "69.900000000000006",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "11",
+		"JulianDay": "193",
+		"NormalMaxTemp": "90.4",
+		"NormalMinTemp": "70",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "12",
+		"JulianDay": "194",
+		"NormalMaxTemp": "90.4",
+		"NormalMinTemp": "70",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "13",
+		"JulianDay": "195",
+		"NormalMaxTemp": "90.4",
+		"NormalMinTemp": "70.099999999999994",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "14",
+		"JulianDay": "196",
+		"NormalMaxTemp": "90.4",
+		"NormalMinTemp": "70.099999999999994",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "15",
+		"JulianDay": "197",
+		"NormalMaxTemp": "90.4",
+		"NormalMinTemp": "70.099999999999994",
+		"NormalPrecipitation": "0.17"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "16",
+		"JulianDay": "198",
+		"NormalMaxTemp": "90.4",
+		"NormalMinTemp": "70.099999999999994",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "17",
+		"JulianDay": "199",
+		"NormalMaxTemp": "90.4",
+		"NormalMinTemp": "70.099999999999994",
+		"NormalPrecipitation": "0.17"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "18",
+		"JulianDay": "200",
+		"NormalMaxTemp": "90.4",
+		"NormalMinTemp": "70.099999999999994",
+		"NormalPrecipitation": "0.17"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "19",
+		"JulianDay": "201",
+		"NormalMaxTemp": "90.3",
+		"NormalMinTemp": "70.099999999999994",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "20",
+		"JulianDay": "202",
+		"NormalMaxTemp": "90.3",
+		"NormalMinTemp": "70.099999999999994",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "21",
+		"JulianDay": "203",
+		"NormalMaxTemp": "90.3",
+		"NormalMinTemp": "70.099999999999994",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "22",
+		"JulianDay": "204",
+		"NormalMaxTemp": "90.2",
+		"NormalMinTemp": "70.099999999999994",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "23",
+		"JulianDay": "205",
+		"NormalMaxTemp": "90.2",
+		"NormalMinTemp": "70.099999999999994",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "24",
+		"JulianDay": "206",
+		"NormalMaxTemp": "90.1",
+		"NormalMinTemp": "70.099999999999994",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "25",
+		"JulianDay": "207",
+		"NormalMaxTemp": "90.1",
+		"NormalMinTemp": "70",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "26",
+		"JulianDay": "208",
+		"NormalMaxTemp": "90",
+		"NormalMinTemp": "70",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "27",
+		"JulianDay": "209",
+		"NormalMaxTemp": "90",
+		"NormalMinTemp": "70",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "28",
+		"JulianDay": "210",
+		"NormalMaxTemp": "89.9",
+		"NormalMinTemp": "69.900000000000006",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "29",
+		"JulianDay": "211",
+		"NormalMaxTemp": "89.9",
+		"NormalMinTemp": "69.900000000000006",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "30",
+		"JulianDay": "212",
+		"NormalMaxTemp": "89.8",
+		"NormalMinTemp": "69.900000000000006",
+		"NormalPrecipitation": "0.17"
+	},
+	{
+		"Month": "July",
+		"DayOfMonth": "31",
+		"JulianDay": "213",
+		"NormalMaxTemp": "89.8",
+		"NormalMinTemp": "69.8",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "1",
+		"JulianDay": "214",
+		"NormalMaxTemp": "89.7",
+		"NormalMinTemp": "69.8",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "2",
+		"JulianDay": "215",
+		"NormalMaxTemp": "89.6",
+		"NormalMinTemp": "69.7",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "3",
+		"JulianDay": "216",
+		"NormalMaxTemp": "89.6",
+		"NormalMinTemp": "69.7",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "4",
+		"JulianDay": "217",
+		"NormalMaxTemp": "89.5",
+		"NormalMinTemp": "69.599999999999994",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "5",
+		"JulianDay": "218",
+		"NormalMaxTemp": "89.5",
+		"NormalMinTemp": "69.599999999999994",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "6",
+		"JulianDay": "219",
+		"NormalMaxTemp": "89.4",
+		"NormalMinTemp": "69.5",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "7",
+		"JulianDay": "220",
+		"NormalMaxTemp": "89.3",
+		"NormalMinTemp": "69.5",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "8",
+		"JulianDay": "221",
+		"NormalMaxTemp": "89.3",
+		"NormalMinTemp": "69.400000000000006",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "9",
+		"JulianDay": "222",
+		"NormalMaxTemp": "89.2",
+		"NormalMinTemp": "69.400000000000006",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "10",
+		"JulianDay": "223",
+		"NormalMaxTemp": "89.1",
+		"NormalMinTemp": "69.3",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "11",
+		"JulianDay": "224",
+		"NormalMaxTemp": "89",
+		"NormalMinTemp": "69.2",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "12",
+		"JulianDay": "225",
+		"NormalMaxTemp": "88.9",
+		"NormalMinTemp": "69.2",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "13",
+		"JulianDay": "226",
+		"NormalMaxTemp": "88.9",
+		"NormalMinTemp": "69.099999999999994",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "14",
+		"JulianDay": "227",
+		"NormalMaxTemp": "88.8",
+		"NormalMinTemp": "69",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "15",
+		"JulianDay": "228",
+		"NormalMaxTemp": "88.7",
+		"NormalMinTemp": "68.900000000000006",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "16",
+		"JulianDay": "229",
+		"NormalMaxTemp": "88.6",
+		"NormalMinTemp": "68.8",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "17",
+		"JulianDay": "230",
+		"NormalMaxTemp": "88.5",
+		"NormalMinTemp": "68.7",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "18",
+		"JulianDay": "231",
+		"NormalMaxTemp": "88.4",
+		"NormalMinTemp": "68.599999999999994",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "19",
+		"JulianDay": "232",
+		"NormalMaxTemp": "88.3",
+		"NormalMinTemp": "68.5",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "20",
+		"JulianDay": "233",
+		"NormalMaxTemp": "88.2",
+		"NormalMinTemp": "68.400000000000006",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "21",
+		"JulianDay": "234",
+		"NormalMaxTemp": "88",
+		"NormalMinTemp": "68.3",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "22",
+		"JulianDay": "235",
+		"NormalMaxTemp": "87.9",
+		"NormalMinTemp": "68.2",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "23",
+		"JulianDay": "236",
+		"NormalMaxTemp": "87.8",
+		"NormalMinTemp": "68",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "24",
+		"JulianDay": "237",
+		"NormalMaxTemp": "87.6",
+		"NormalMinTemp": "67.900000000000006",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "25",
+		"JulianDay": "238",
+		"NormalMaxTemp": "87.5",
+		"NormalMinTemp": "67.7",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "26",
+		"JulianDay": "239",
+		"NormalMaxTemp": "87.3",
+		"NormalMinTemp": "67.599999999999994",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "27",
+		"JulianDay": "240",
+		"NormalMaxTemp": "87.1",
+		"NormalMinTemp": "67.400000000000006",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "28",
+		"JulianDay": "241",
+		"NormalMaxTemp": "87",
+		"NormalMinTemp": "67.2",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "29",
+		"JulianDay": "242",
+		"NormalMaxTemp": "86.8",
+		"NormalMinTemp": "67",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "30",
+		"JulianDay": "243",
+		"NormalMaxTemp": "86.6",
+		"NormalMinTemp": "66.8",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "August",
+		"DayOfMonth": "31",
+		"JulianDay": "244",
+		"NormalMaxTemp": "86.4",
+		"NormalMinTemp": "66.599999999999994",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "1",
+		"JulianDay": "245",
+		"NormalMaxTemp": "86.2",
+		"NormalMinTemp": "66.400000000000006",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "2",
+		"JulianDay": "246",
+		"NormalMaxTemp": "86",
+		"NormalMinTemp": "66.2",
+		"NormalPrecipitation": "0.17"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "3",
+		"JulianDay": "247",
+		"NormalMaxTemp": "85.7",
+		"NormalMinTemp": "65.900000000000006",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "4",
+		"JulianDay": "248",
+		"NormalMaxTemp": "85.5",
+		"NormalMinTemp": "65.7",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "5",
+		"JulianDay": "249",
+		"NormalMaxTemp": "85.3",
+		"NormalMinTemp": "65.400000000000006",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "6",
+		"JulianDay": "250",
+		"NormalMaxTemp": "85",
+		"NormalMinTemp": "65.099999999999994",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "7",
+		"JulianDay": "251",
+		"NormalMaxTemp": "84.8",
+		"NormalMinTemp": "64.8",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "8",
+		"JulianDay": "252",
+		"NormalMaxTemp": "84.5",
+		"NormalMinTemp": "64.5",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "9",
+		"JulianDay": "253",
+		"NormalMaxTemp": "84.2",
+		"NormalMinTemp": "64.2",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "10",
+		"JulianDay": "254",
+		"NormalMaxTemp": "83.9",
+		"NormalMinTemp": "63.9",
+		"NormalPrecipitation": "0.17"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "11",
+		"JulianDay": "255",
+		"NormalMaxTemp": "83.6",
+		"NormalMinTemp": "63.6",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "12",
+		"JulianDay": "256",
+		"NormalMaxTemp": "83.3",
+		"NormalMinTemp": "63.2",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "13",
+		"JulianDay": "257",
+		"NormalMaxTemp": "83",
+		"NormalMinTemp": "62.9",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "14",
+		"JulianDay": "258",
+		"NormalMaxTemp": "82.7",
+		"NormalMinTemp": "62.5",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "15",
+		"JulianDay": "259",
+		"NormalMaxTemp": "82.4",
+		"NormalMinTemp": "62.2",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "16",
+		"JulianDay": "260",
+		"NormalMaxTemp": "82.1",
+		"NormalMinTemp": "61.8",
+		"NormalPrecipitation": "0.16"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "17",
+		"JulianDay": "261",
+		"NormalMaxTemp": "81.8",
+		"NormalMinTemp": "61.4",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "18",
+		"JulianDay": "262",
+		"NormalMaxTemp": "81.5",
+		"NormalMinTemp": "61",
+		"NormalPrecipitation": "0.15"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "19",
+		"JulianDay": "263",
+		"NormalMaxTemp": "81.099999999999994",
+		"NormalMinTemp": "60.6",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "20",
+		"JulianDay": "264",
+		"NormalMaxTemp": "80.8",
+		"NormalMinTemp": "60.2",
+		"NormalPrecipitation": "0.14000000000000001"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "21",
+		"JulianDay": "265",
+		"NormalMaxTemp": "80.5",
+		"NormalMinTemp": "59.8",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "22",
+		"JulianDay": "266",
+		"NormalMaxTemp": "80.099999999999994",
+		"NormalMinTemp": "59.4",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "23",
+		"JulianDay": "267",
+		"NormalMaxTemp": "79.8",
+		"NormalMinTemp": "59",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "24",
+		"JulianDay": "268",
+		"NormalMaxTemp": "79.400000000000006",
+		"NormalMinTemp": "58.6",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "25",
+		"JulianDay": "269",
+		"NormalMaxTemp": "79.099999999999994",
+		"NormalMinTemp": "58.1",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "26",
+		"JulianDay": "270",
+		"NormalMaxTemp": "78.8",
+		"NormalMinTemp": "57.7",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "27",
+		"JulianDay": "271",
+		"NormalMaxTemp": "78.400000000000006",
+		"NormalMinTemp": "57.3",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "28",
+		"JulianDay": "272",
+		"NormalMaxTemp": "78.099999999999994",
+		"NormalMinTemp": "56.9",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "29",
+		"JulianDay": "273",
+		"NormalMaxTemp": "77.8",
+		"NormalMinTemp": "56.4",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "September",
+		"DayOfMonth": "30",
+		"JulianDay": "274",
+		"NormalMaxTemp": "77.400000000000006",
+		"NormalMinTemp": "56",
+		"NormalPrecipitation": "0.13"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "1",
+		"JulianDay": "275",
+		"NormalMaxTemp": "77.099999999999994",
+		"NormalMinTemp": "55.6",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "2",
+		"JulianDay": "276",
+		"NormalMaxTemp": "76.8",
+		"NormalMinTemp": "55.1",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "3",
+		"JulianDay": "277",
+		"NormalMaxTemp": "76.5",
+		"NormalMinTemp": "54.7",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "4",
+		"JulianDay": "278",
+		"NormalMaxTemp": "76.099999999999994",
+		"NormalMinTemp": "54.3",
+		"NormalPrecipitation": "0.12"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "5",
+		"JulianDay": "279",
+		"NormalMaxTemp": "75.8",
+		"NormalMinTemp": "53.9",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "6",
+		"JulianDay": "280",
+		"NormalMaxTemp": "75.5",
+		"NormalMinTemp": "53.4",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "7",
+		"JulianDay": "281",
+		"NormalMaxTemp": "75.2",
+		"NormalMinTemp": "53",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "8",
+		"JulianDay": "282",
+		"NormalMaxTemp": "74.900000000000006",
+		"NormalMinTemp": "52.6",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "9",
+		"JulianDay": "283",
+		"NormalMaxTemp": "74.599999999999994",
+		"NormalMinTemp": "52.2",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "10",
+		"JulianDay": "284",
+		"NormalMaxTemp": "74.3",
+		"NormalMinTemp": "51.8",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "11",
+		"JulianDay": "285",
+		"NormalMaxTemp": "74",
+		"NormalMinTemp": "51.4",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "12",
+		"JulianDay": "286",
+		"NormalMaxTemp": "73.7",
+		"NormalMinTemp": "51",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "13",
+		"JulianDay": "287",
+		"NormalMaxTemp": "73.400000000000006",
+		"NormalMinTemp": "50.7",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "14",
+		"JulianDay": "288",
+		"NormalMaxTemp": "73.2",
+		"NormalMinTemp": "50.3",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "15",
+		"JulianDay": "289",
+		"NormalMaxTemp": "72.900000000000006",
+		"NormalMinTemp": "49.9",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "16",
+		"JulianDay": "290",
+		"NormalMaxTemp": "72.599999999999994",
+		"NormalMinTemp": "49.5",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "17",
+		"JulianDay": "291",
+		"NormalMaxTemp": "72.3",
+		"NormalMinTemp": "49.2",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "18",
+		"JulianDay": "292",
+		"NormalMaxTemp": "72.099999999999994",
+		"NormalMinTemp": "48.8",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "19",
+		"JulianDay": "293",
+		"NormalMaxTemp": "71.8",
+		"NormalMinTemp": "48.5",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "20",
+		"JulianDay": "294",
+		"NormalMaxTemp": "71.5",
+		"NormalMinTemp": "48.2",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "21",
+		"JulianDay": "295",
+		"NormalMaxTemp": "71.3",
+		"NormalMinTemp": "47.8",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "22",
+		"JulianDay": "296",
+		"NormalMaxTemp": "71",
+		"NormalMinTemp": "47.5",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "23",
+		"JulianDay": "297",
+		"NormalMaxTemp": "70.7",
+		"NormalMinTemp": "47.2",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "24",
+		"JulianDay": "298",
+		"NormalMaxTemp": "70.5",
+		"NormalMinTemp": "46.9",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "25",
+		"JulianDay": "299",
+		"NormalMaxTemp": "70.2",
+		"NormalMinTemp": "46.6",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "26",
+		"JulianDay": "300",
+		"NormalMaxTemp": "69.900000000000006",
+		"NormalMinTemp": "46.3",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "27",
+		"JulianDay": "301",
+		"NormalMaxTemp": "69.7",
+		"NormalMinTemp": "46",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "28",
+		"JulianDay": "302",
+		"NormalMaxTemp": "69.400000000000006",
+		"NormalMinTemp": "45.7",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "29",
+		"JulianDay": "303",
+		"NormalMaxTemp": "69.099999999999994",
+		"NormalMinTemp": "45.4",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "30",
+		"JulianDay": "304",
+		"NormalMaxTemp": "68.900000000000006",
+		"NormalMinTemp": "45.2",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "October",
+		"DayOfMonth": "31",
+		"JulianDay": "305",
+		"NormalMaxTemp": "68.599999999999994",
+		"NormalMinTemp": "44.9",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "1",
+		"JulianDay": "306",
+		"NormalMaxTemp": "68.3",
+		"NormalMinTemp": "44.6",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "2",
+		"JulianDay": "307",
+		"NormalMaxTemp": "68",
+		"NormalMinTemp": "44.3",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "3",
+		"JulianDay": "308",
+		"NormalMaxTemp": "67.8",
+		"NormalMinTemp": "44.1",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "4",
+		"JulianDay": "309",
+		"NormalMaxTemp": "67.5",
+		"NormalMinTemp": "43.8",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "5",
+		"JulianDay": "310",
+		"NormalMaxTemp": "67.2",
+		"NormalMinTemp": "43.5",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "6",
+		"JulianDay": "311",
+		"NormalMaxTemp": "66.900000000000006",
+		"NormalMinTemp": "43.3",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "7",
+		"JulianDay": "312",
+		"NormalMaxTemp": "66.599999999999994",
+		"NormalMinTemp": "43",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "8",
+		"JulianDay": "313",
+		"NormalMaxTemp": "66.2",
+		"NormalMinTemp": "42.8",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "9",
+		"JulianDay": "314",
+		"NormalMaxTemp": "65.900000000000006",
+		"NormalMinTemp": "42.5",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "10",
+		"JulianDay": "315",
+		"NormalMaxTemp": "65.599999999999994",
+		"NormalMinTemp": "42.3",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "11",
+		"JulianDay": "316",
+		"NormalMaxTemp": "65.3",
+		"NormalMinTemp": "42",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "12",
+		"JulianDay": "317",
+		"NormalMaxTemp": "65",
+		"NormalMinTemp": "41.7",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "13",
+		"JulianDay": "318",
+		"NormalMaxTemp": "64.599999999999994",
+		"NormalMinTemp": "41.5",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "14",
+		"JulianDay": "319",
+		"NormalMaxTemp": "64.3",
+		"NormalMinTemp": "41.2",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "15",
+		"JulianDay": "320",
+		"NormalMaxTemp": "63.9",
+		"NormalMinTemp": "41",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "16",
+		"JulianDay": "321",
+		"NormalMaxTemp": "63.6",
+		"NormalMinTemp": "40.700000000000003",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "17",
+		"JulianDay": "322",
+		"NormalMaxTemp": "63.2",
+		"NormalMinTemp": "40.4",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "18",
+		"JulianDay": "323",
+		"NormalMaxTemp": "62.9",
+		"NormalMinTemp": "40.200000000000003",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "19",
+		"JulianDay": "324",
+		"NormalMaxTemp": "62.5",
+		"NormalMinTemp": "39.9",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "20",
+		"JulianDay": "325",
+		"NormalMaxTemp": "62.1",
+		"NormalMinTemp": "39.6",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "21",
+		"JulianDay": "326",
+		"NormalMaxTemp": "61.8",
+		"NormalMinTemp": "39.4",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "22",
+		"JulianDay": "327",
+		"NormalMaxTemp": "61.4",
+		"NormalMinTemp": "39.1",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "23",
+		"JulianDay": "328",
+		"NormalMaxTemp": "61",
+		"NormalMinTemp": "38.799999999999997",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "24",
+		"JulianDay": "329",
+		"NormalMaxTemp": "60.6",
+		"NormalMinTemp": "38.6",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "25",
+		"JulianDay": "330",
+		"NormalMaxTemp": "60.3",
+		"NormalMinTemp": "38.299999999999997",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "26",
+		"JulianDay": "331",
+		"NormalMaxTemp": "59.9",
+		"NormalMinTemp": "38",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "27",
+		"JulianDay": "332",
+		"NormalMaxTemp": "59.5",
+		"NormalMinTemp": "37.799999999999997",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "28",
+		"JulianDay": "333",
+		"NormalMaxTemp": "59.1",
+		"NormalMinTemp": "37.5",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "29",
+		"JulianDay": "334",
+		"NormalMaxTemp": "58.8",
+		"NormalMinTemp": "37.200000000000003",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "November",
+		"DayOfMonth": "30",
+		"JulianDay": "335",
+		"NormalMaxTemp": "58.4",
+		"NormalMinTemp": "36.9",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "1",
+		"JulianDay": "336",
+		"NormalMaxTemp": "58",
+		"NormalMinTemp": "36.700000000000003",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "2",
+		"JulianDay": "337",
+		"NormalMaxTemp": "57.6",
+		"NormalMinTemp": "36.4",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "3",
+		"JulianDay": "338",
+		"NormalMaxTemp": "57.3",
+		"NormalMinTemp": "36.1",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "4",
+		"JulianDay": "339",
+		"NormalMaxTemp": "56.9",
+		"NormalMinTemp": "35.9",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "5",
+		"JulianDay": "340",
+		"NormalMaxTemp": "56.6",
+		"NormalMinTemp": "35.6",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "6",
+		"JulianDay": "341",
+		"NormalMaxTemp": "56.2",
+		"NormalMinTemp": "35.299999999999997",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "7",
+		"JulianDay": "342",
+		"NormalMaxTemp": "55.9",
+		"NormalMinTemp": "35.1",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "8",
+		"JulianDay": "343",
+		"NormalMaxTemp": "55.5",
+		"NormalMinTemp": "34.799999999999997",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "9",
+		"JulianDay": "344",
+		"NormalMaxTemp": "55.2",
+		"NormalMinTemp": "34.6",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "10",
+		"JulianDay": "345",
+		"NormalMaxTemp": "54.9",
+		"NormalMinTemp": "34.299999999999997",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "11",
+		"JulianDay": "346",
+		"NormalMaxTemp": "54.6",
+		"NormalMinTemp": "34.1",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "12",
+		"JulianDay": "347",
+		"NormalMaxTemp": "54.3",
+		"NormalMinTemp": "33.9",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "13",
+		"JulianDay": "348",
+		"NormalMaxTemp": "54",
+		"NormalMinTemp": "33.700000000000003",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "14",
+		"JulianDay": "349",
+		"NormalMaxTemp": "53.7",
+		"NormalMinTemp": "33.4",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "15",
+		"JulianDay": "350",
+		"NormalMaxTemp": "53.4",
+		"NormalMinTemp": "33.200000000000003",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "16",
+		"JulianDay": "351",
+		"NormalMaxTemp": "53.2",
+		"NormalMinTemp": "33",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "17",
+		"JulianDay": "352",
+		"NormalMaxTemp": "52.9",
+		"NormalMinTemp": "32.799999999999997",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "18",
+		"JulianDay": "353",
+		"NormalMaxTemp": "52.7",
+		"NormalMinTemp": "32.6",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "19",
+		"JulianDay": "354",
+		"NormalMaxTemp": "52.5",
+		"NormalMinTemp": "32.4",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "20",
+		"JulianDay": "355",
+		"NormalMaxTemp": "52.2",
+		"NormalMinTemp": "32.299999999999997",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "21",
+		"JulianDay": "356",
+		"NormalMaxTemp": "52",
+		"NormalMinTemp": "32.1",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "22",
+		"JulianDay": "357",
+		"NormalMaxTemp": "51.9",
+		"NormalMinTemp": "31.9",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "23",
+		"JulianDay": "358",
+		"NormalMaxTemp": "51.7",
+		"NormalMinTemp": "31.8",
+		"NormalPrecipitation": "0.11"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "24",
+		"JulianDay": "359",
+		"NormalMaxTemp": "51.5",
+		"NormalMinTemp": "31.7",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "25",
+		"JulianDay": "360",
+		"NormalMaxTemp": "51.3",
+		"NormalMinTemp": "31.5",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "26",
+		"JulianDay": "361",
+		"NormalMaxTemp": "51.2",
+		"NormalMinTemp": "31.4",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "27",
+		"JulianDay": "362",
+		"NormalMaxTemp": "51.1",
+		"NormalMinTemp": "31.3",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "28",
+		"JulianDay": "363",
+		"NormalMaxTemp": "50.9",
+		"NormalMinTemp": "31.2",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "29",
+		"JulianDay": "364",
+		"NormalMaxTemp": "50.8",
+		"NormalMinTemp": "31.1",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "30",
+		"JulianDay": "365",
+		"NormalMaxTemp": "50.7",
+		"NormalMinTemp": "31",
+		"NormalPrecipitation": "0.1"
+	},
+	{
+		"Month": "December",
+		"DayOfMonth": "31",
+		"JulianDay": "366",
+		"NormalMaxTemp": "50.6",
+		"NormalMinTemp": "30.9",
+		"NormalPrecipitation": "0.09"
+	},
+	{
+		"Month": ""
+	}
+]

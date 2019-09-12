@@ -22,3 +22,4 @@
 /Users/devinmuhs/WeatherApp/WeatherApp/obj/Debug/netcoreapp2.2/WeatherApp.AssemblyInfo.cs
 /Users/devinmuhs/WeatherApp/WeatherApp/obj/Debug/netcoreapp2.2/WeatherApp.dll
 /Users/devinmuhs/WeatherApp/WeatherApp/obj/Debug/netcoreapp2.2/WeatherApp.pdb
+/Users/devinmuhs/WeatherApp/WeatherApp/bin/Debug/netcoreapp2.2/weatherdata.json

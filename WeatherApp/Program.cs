@@ -10,7 +10,7 @@ namespace WeatherApp
         static void Main(string[] args)
         {
             // Program reads the json file using StreamReader.
-            using (StreamReader r = new StreamReader(@"weather-data.json"))
+            using (StreamReader r = new StreamReader(@"weatherdata.json"))
             {
                 string json = r.ReadToEnd();
                 // Json is deserialized into an object so that the data can be easily parsed.
@@ -42,9 +42,9 @@ namespace WeatherApp
                 {
                     // Convert both record and input to uppercase to avoid casing issue
                     // If match is found for both Month and Day, print result statement to the user.
-                    if (record.month.ToString().ToUpper() == month.ToUpper() && record.dayOfMonth.ToString().ToUpper() == day)
+                    if (record.Month.ToString().ToUpper() == month.ToUpper() && record.DayOfMonth.ToString().ToUpper() == day)
                     {
-                        Console.WriteLine($"\nOn average, the high for {record.month} {record.dayOfMonth} is {record.normalMaxTemp}°F, the low is {record.normalMinTemp}°F and there is {record.normalPrecipitation} inches of rain.\n");
+                        Console.WriteLine($"\nOn average, the high for {record.Month} {record.DayOfMonth} is {record.NormalMaxTemp}°F, the low is {record.NormalMinTemp}°F and there is {record.NormalPrecipitation} inches of rain.\n");
                     }
                     //else
                     //{
