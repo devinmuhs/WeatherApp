@@ -16,7 +16,7 @@ namespace WeatherApp
                 string month = Console.ReadLine();
 
                 // Request user input for day and assigns the input to a variable.
-                Console.Write("\nNow, please enter the day of the month you would like to check the weather for:\n(Format: 1, 2, etc.) - (Leave blank for todays' date): ");
+                Console.Write("\nNow, please enter the day of the month you would like to check the weather for:\n(Format: 1, 2, etc.) - (Leave blank for today's date): ");
                 string day = Console.ReadLine();
 
                 // Calls the WeatherForecast function and assigns it's value to output variable.
